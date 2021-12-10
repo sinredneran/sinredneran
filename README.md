@@ -2,4 +2,4 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript , sass
 - 💞️ I’m looking to collaborate on future projects ( if possible )
-- 📫 How to reach me email :- ns24.singh@gmail.com or instagram :- @sinredneran
+- 📫 How to reach me instagram :- @sinredneran
